@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Usage of struct formating</title>
+  </head>
+  <body leftmargin=100 rightmargin=100 text=#78bed0 bgcolor=#112232>
+    <h1>Using of struct formating tags</h1>
+Usual string
+<p><cite>Strig, formated with tag CITE</cite></p>
+<p><code>String, formated by tag CODE </code></p>
+<p><dfn>Ctrihg, formated by DFN </dfn></p>
+<p><em>String, by EM </em></p>
+<p><kbd>String by KBD </kbd></p>
+<p><mark>String by MARK </mark></p>
+<p><samp>Ctrihg, formated by SAMP </samp></p>
+<p><strong>String by Strong (Polsha - strong? O Kurwa!!!) </strong></p>
+<p><var>String by Var </var></p>
+
+<p><del>Usage of "DEL" tag </del></p>
+<p><ins>Usage of "Ins" tag </ins></p>
+<p>For last info, there will be <del>500</del> <ins>500</ins> best studens and young
+specialists fro all over the WEB</p>
+  </body>
+</html>

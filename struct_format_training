@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<HEAD>
+<TITLE> Tag ABBR</TITLE>
+<META charset="UTF-8">
+<style>
+ABBR{border-bottom: 1px dashed red; color: #000080;}
+</style>
+  </HEAD>
+  <body>
+<h1> Directions of maraphon</h1>
+<p><abbr title="Virtual and Additional reality">VR&AR</abbr></p>
+<p>Internet of things</p>
+<p><abbr title="No Pilot flying machines">NPFM </abbr></p>
+<p>Space</p>
+<p>Robotech</p>
+<p><abbr title="Automised control systems">ACS</abbr></p>
+<p>Industrial design</p>
+<p>Finances</p>
+<p>Neurotechnologies</p>
+
+<p><cite>"We live in age of bla bla bla"</cite> Maxim Unsweet</p>
+</body>
+</html>
