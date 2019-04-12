@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Using "BLOCKQUOTE" tag </title>
+  </head>
+  <body leftmargin=100, rightmargin=100 text=#78bed0
+  bgcolor=#112233>
+<h1>Bsing BLOCKQUOTE </h1>
+    <p>What is TechRussia?</p>
+    <blockquote cite="http://techrussia.com">Tech maraphon is an event bla bla bla
+      <p>Future engineers meet and bla bla bla</p>
+      <cite>http://techrussia.com</cite>
+    </blockquote>
+
+
+
+
+
+  </body>
+</html>

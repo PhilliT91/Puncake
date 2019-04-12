@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body leftmargin=100, rightmargin=100 text=#78bed0
+  bgcolor=#112233>
+    <h2>Diana Gurtskaya <hr> <br>Capitan komandi</h2>
+<img src="22.jpg"  align=left>
+    Graduate with specialization "Innovation" <br clear=left>. Has 5 eyar
+    expirience <br>
+
+<p>What is techRussia?</p>
+<details >
+  <summary>Tech maraphon is</summary> an importan event of IT industry of MOTHER RUSIIA!
+  <p>FUTURE IT-masters are coming togather there</p>
+</details>
+
+  </body>
+</html>
