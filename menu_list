@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body leftmargin=100 rightmargin=100 text=#78bed0 bgcolor=#1a2232>
+
+<h1>Menu List</h1>
+
+<menu type="toolbar">
+  <h3>napravlenya_list</h3>
+<li>Virtual and additional reality</li>
+<li>Internt of things</li>
+<li>BPLA</li>
+<li>Space</li>
+<li>pobotech</li>
+</menu>
+
+
+
+
+    </body>

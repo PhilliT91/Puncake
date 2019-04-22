@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body leftmargin=100 rightmargin=100 text=#78bed0 bgcolor=#1a2232>
+<h2>example of structure groups of rows in a table</h2>
+<table align=left border cellspacing=0 cellpadding=5 bgcolor=#3f55a>
+<caption align=right>
+<em><b>table name</b></em>
+  </caption>
+  <thead>
+    <tr>
+      <th>up head cell 1</th>
+      <th>up head cell 2</th>
+      <th>up head cell 3</th>
+    </tr>
+
+
+    <tr>
+      <th>up head cell 1</th>
+      <th>up head cell 2</th>
+      <th>up head cell 3</th>
+    </tr>
+  </thead>
+  <tfoot>
+<th>bottom head cell 1</th>
+<th>bottom head cell 2</th>
+<th>bottom head cell 3</th>
+
+  </tfoot>
+  <tr>
+    <td>table body cell 1 </td>
+    <td>table body cell 2 </td>
+    <td>table body cell 3 </td>
+  </tr>
+<tr>
+  <td>table body cell 4 </td>
+  <td>table body cell 5 </td>
+  <td>table body cell 6 </td>
+</tr>
+
+</table>
+
+
+
+
+
+
+  </body>

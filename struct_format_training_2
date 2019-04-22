@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Usage of struct formating</title>
   </head>
-  <body leftmargin=100 rightmargin=100 text=#78bed0 bgcolor=#112232>
+  <body leftmargin=100 rightmargin=100 text=#78bed0 bgcolor=#1a2232>
     <h1>Using of struct formating tags</h1>
 Usual string
 <p><cite>Strig, formated with tag CITE</cite></p>
