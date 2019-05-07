@@ -8,16 +8,20 @@
   <body leftmargin=100 rightmargin=100 text=#78bed0 bgcolor=#1a2232>
     <h1>Unordered list example</h1>
 
-<ul id="napravlenya_list" type=square >
+<ol id="napravlenya_list" type=I >
   <li>Virtual additional reality</li>
 <li>Internt of things</li>
+
+
+
+
 <li>NPFM</li>
-<li>Space technologies</li>
+<li value="8">Space technologies</li>
 <li>Robotech</li>
 
 
 
-</ul>
+</ol>
 
 
   </body>

@@ -8,7 +8,7 @@
 
 <h1>Menu List</h1>
 
-<menu type="toolbar">
+<menu type="list">
   <h3>napravlenya_list</h3>
 <li>Virtual and additional reality</li>
 <li>Internt of things</li>
